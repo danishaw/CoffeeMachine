@@ -1,0 +1,19 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danishaw/CoffeeMachine.git"
+  },
+  "author": "DansAW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danishaw/CoffeeMachine/issues"
+  },
+  "homepage": "https://github.com/danishaw/CoffeeMachine#readme"
+}
